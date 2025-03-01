@@ -52,7 +52,7 @@ public class InvoiceSystem {
         System.out.print("Enter client name: ");
         String name = scanner.nextLine();
 
-        String insertSQL = "INSERT INTO clients (client_name) VALUES (?)";
+        String insertSQL = "INSERT INTO clients (name) VALUES (?)";
         try (Connection conn = DatabaseConnection.getConnection();
                 PreparedStatement stmt = conn.prepareStatement(insertSQL)) {
 
@@ -91,7 +91,7 @@ public class InvoiceSystem {
         System.out.print("Enter new client name: ");
         String newName = scanner.nextLine();
 
-        String updateSQL = "UPDATE clients SET client_name = ? WHERE client_id = ?";
+        String updateSQL = "UPDATE clients SET name = ? WHERE client_id = ?";
         try (Connection conn = DatabaseConnection.getConnection();
                 PreparedStatement stmt = conn.prepareStatement(updateSQL)) {
 
