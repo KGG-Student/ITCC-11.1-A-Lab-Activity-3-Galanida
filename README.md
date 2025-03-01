@@ -28,4 +28,17 @@
 
 ![image](https://github.com/user-attachments/assets/e1b5454d-4d8e-4b1f-b05a-f96add94b3c2)
 
+#Update Client
+
+![image](https://github.com/user-attachments/assets/cf1abedf-bec7-46d6-a420-a5da25c209b9)
+
+![image](https://github.com/user-attachments/assets/af5562dd-9934-456a-983b-81f89c30ca3a)
+
+
+#Delete Client
+
+![image](https://github.com/user-attachments/assets/5cf0f4ed-d7c8-4727-8a06-b2c8b9499278)
+
+![image](https://github.com/user-attachments/assets/23748041-6e04-4c2f-96bf-7da9f7cb0f9a)
+
 
