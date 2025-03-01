@@ -20,3 +20,12 @@
 
 ![image](https://github.com/user-attachments/assets/26bba979-d441-4c69-b8bf-ad04fb40e0d5)
 
+#Add Client
+
+![image](https://github.com/user-attachments/assets/06455859-2dcb-4720-a0ce-bc04cba0ba72)
+
+#View Clients
+
+![image](https://github.com/user-attachments/assets/e1b5454d-4d8e-4b1f-b05a-f96add94b3c2)
+
+
